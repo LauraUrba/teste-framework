@@ -1,7 +1,3 @@
-Aqui está o seu `README.md` organizado e ajustado, mantendo todos os seus comandos e explicações originais:
-
----
-
 # Teste de Frameworks Frontend (React, Vue e Angular)
 
 > **Objetivo:** Este documento é um registro de um teste inicial para entender a instalação básica de cada framework (React, Vue e Angular) em um ambiente Linux Ubuntu. O objetivo final é escolher um framework popular para frontend e dar início aos estudos mais aprofundados.
